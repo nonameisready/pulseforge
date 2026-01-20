@@ -1,0 +1,22 @@
+# Python stuff you don't need on GitHub
+__pycache__/
+*.py[cod]
+
+# Your local environment (Keep this! You don't want to upload your 100MB venv)
+venv/
+.env
+
+# Editor settings (Optional to ignore, but keeps things clean)
+.vscode/
+.idea/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Node.js (If you aren't using Javascript, you can delete this)
+node_modules/
+
+# Ignore the python virtual environment
+venv_312/
+

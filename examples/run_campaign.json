@@ -1,0 +1,13 @@
+{
+  "tenant": "default",
+  "channel": "meta_ads",
+  "objective": "conversion",
+  "audience": "NYC professionals attending galas, weddings, and formal evening events",
+  "product_name": "Whispered Atelier — Handmade Evening Gown",
+  "product_desc": "Handmade high-end evening gown crafted with couture-level detailing, premium fabrics, elegant silhouettes, and limited custom-made releases.",
+  "brand_voice": "Elegant, minimal, precise. Couture-inspired. Premium but warm. No exaggerated claims.",
+  "num_variants": 12,
+  "constraints": { 
+    "banned_words": ["guarantee", "miracle", "best ever"] 
+  }
+}
